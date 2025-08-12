@@ -54,7 +54,7 @@
 - 📫 **Reach me:**
   - **LinkedIn:** https://www.linkedin.com/in/narasimhanaidukorrapati/
   - **Email:** narasimhanaidu.korrapati@gmail.com
-  - **Portfolio:** [My Portfolio](https://naidu199.github.io/myPortfolio/)
+  - **Portfolio:** [My Portfolio]()
 <br/>  
 <div align="center">
   # 🚀 My GitHub Journey
