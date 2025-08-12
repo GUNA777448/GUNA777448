@@ -52,8 +52,8 @@
 
 
 - 📫 **Reach me:**
-  - **LinkedIn:** https://www.linkedin.com/in/narasimhanaidukorrapati/
-  - **Email:** narasimhanaidu.korrapati@gmail.com
+  - **LinkedIn:** 
+  - **Email:** gurunadarao.reddy@gmail.com
   - **Portfolio:** [My Portfolio]()
 <br/>  
 <div align="center">
