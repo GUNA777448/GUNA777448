@@ -54,7 +54,7 @@
 - 📫 **Reach me:**
   - **LinkedIn:** 
   - **Email:** gurunadarao.reddy@gmail.com
-  - **Portfolio:** [My Portfolio]()
+  - **Portfolio:** [My Portfolio](https://portfolio-peach-two-2svwdo7nbt.vercel.app/)
 <br/>  
 <div align="center">
   # 🚀 My GitHub Journey
